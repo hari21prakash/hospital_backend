@@ -1,0 +1,11 @@
+using HospitalManagement.Api.DTOs;
+
+namespace HospitalManagement.Api.Interfaces;
+
+public interface INotificationService
+{
+    Task<NotificationPageDto> GetNotificationsAsync(Guid userId, int page, int pageSize, bool unreadOnly, CancellationToken cancellationToken);
+    Task<NotificationDto> MarkNotificationAsReadAsync(Guid notificationId, Guid userId, CancellationToken cancellationToken);
+    Task<int> GetUnreadCountAsync(Guid userId, CancellationToken cancellationToken);
+    Task<AuditLogPageDto> GetAuditLogsAsync(string? search, string? entityName, int page, int pageSize, CancellationToken cancellationToken);
+}

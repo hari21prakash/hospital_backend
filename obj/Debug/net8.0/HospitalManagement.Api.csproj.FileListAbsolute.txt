@@ -1,0 +1,826 @@
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\appsettings.Development.json
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\appsettings.json
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\HospitalManagement.Api.staticwebassets.endpoints.json
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\HospitalManagement.Api.exe
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\HospitalManagement.Api.deps.json
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\HospitalManagement.Api.runtimeconfig.json
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\HospitalManagement.Api.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\HospitalManagement.Api.pdb
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\Humanizer.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\Npgsql.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\System.CodeDom.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\obj\Debug\net8.0\HospitalManagement.Api.csproj.AssemblyReference.cache
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\obj\Debug\net8.0\rpswa.dswa.cache.json
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\obj\Debug\net8.0\HospitalManagement.Api.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\obj\Debug\net8.0\HospitalManagement.Api.AssemblyInfoInputs.cache
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\obj\Debug\net8.0\HospitalManagement.Api.AssemblyInfo.cs
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\obj\Debug\net8.0\HospitalManagement.Api.csproj.CoreCompileInputs.cache
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\obj\Debug\net8.0\HospitalManagement.Api.MvcApplicationPartsAssemblyInfo.cs
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\obj\Debug\net8.0\HospitalManagement.Api.MvcApplicationPartsAssemblyInfo.cache
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\obj\Debug\net8.0\rjimswa.dswa.cache.json
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\obj\Debug\net8.0\scopedcss\bundle\HospitalManagement.Api.styles.css
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\obj\Debug\net8.0\staticwebassets.build.json
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\obj\Debug\net8.0\staticwebassets.build.json.cache
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\obj\Debug\net8.0\staticwebassets.development.json
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\obj\Debug\net8.0\swae.build.ex.cache
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\obj\Debug\net8.0\Hospital.C4BE303C.Up2Date
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\obj\Debug\net8.0\HospitalManagement.Api.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\obj\Debug\net8.0\refint\HospitalManagement.Api.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\obj\Debug\net8.0\HospitalManagement.Api.pdb
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\obj\Debug\net8.0\HospitalManagement.Api.genruntimeconfig.cache
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\obj\Debug\net8.0\ref\HospitalManagement.Api.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\BCrypt.Net-Next.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\AuthValidation\appsettings.Development.json
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\AuthValidation\appsettings.json
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\AuthValidation\HospitalManagement.Api.staticwebassets.endpoints.json
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\AuthValidation\HospitalManagement.Api.exe
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\AuthValidation\HospitalManagement.Api.deps.json
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\AuthValidation\HospitalManagement.Api.runtimeconfig.json
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\AuthValidation\HospitalManagement.Api.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\AuthValidation\HospitalManagement.Api.pdb
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\AuthValidation\BCrypt.Net-Next.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\AuthValidation\Humanizer.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\AuthValidation\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\AuthValidation\Microsoft.Bcl.AsyncInterfaces.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\AuthValidation\Microsoft.CodeAnalysis.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\AuthValidation\Microsoft.CodeAnalysis.CSharp.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\AuthValidation\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\AuthValidation\Microsoft.CodeAnalysis.Workspaces.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\AuthValidation\Microsoft.EntityFrameworkCore.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\AuthValidation\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\AuthValidation\Microsoft.EntityFrameworkCore.Design.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\AuthValidation\Microsoft.EntityFrameworkCore.Relational.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\AuthValidation\Microsoft.Extensions.Caching.Memory.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\AuthValidation\Microsoft.Extensions.DependencyInjection.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\AuthValidation\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\AuthValidation\Microsoft.Extensions.DependencyModel.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\AuthValidation\Microsoft.Extensions.Logging.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\AuthValidation\Microsoft.Extensions.Logging.Abstractions.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\AuthValidation\Microsoft.Extensions.Options.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\AuthValidation\Microsoft.IdentityModel.Abstractions.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\AuthValidation\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\AuthValidation\Microsoft.IdentityModel.Logging.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\AuthValidation\Microsoft.IdentityModel.Protocols.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\AuthValidation\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\AuthValidation\Microsoft.IdentityModel.Tokens.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\AuthValidation\Microsoft.OpenApi.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\AuthValidation\Mono.TextTemplating.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\AuthValidation\Npgsql.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\AuthValidation\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\AuthValidation\Swashbuckle.AspNetCore.Swagger.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\AuthValidation\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\AuthValidation\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\AuthValidation\System.CodeDom.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\AuthValidation\System.Composition.AttributedModel.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\AuthValidation\System.Composition.Convention.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\AuthValidation\System.Composition.Hosting.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\AuthValidation\System.Composition.Runtime.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\AuthValidation\System.Composition.TypedParts.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\AuthValidation\System.IdentityModel.Tokens.Jwt.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\AuthValidation\cs\Microsoft.CodeAnalysis.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\AuthValidation\de\Microsoft.CodeAnalysis.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\AuthValidation\es\Microsoft.CodeAnalysis.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\AuthValidation\fr\Microsoft.CodeAnalysis.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\AuthValidation\it\Microsoft.CodeAnalysis.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\AuthValidation\ja\Microsoft.CodeAnalysis.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\AuthValidation\ko\Microsoft.CodeAnalysis.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\AuthValidation\pl\Microsoft.CodeAnalysis.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\AuthValidation\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\AuthValidation\ru\Microsoft.CodeAnalysis.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\AuthValidation\tr\Microsoft.CodeAnalysis.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\AuthValidation\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\AuthValidation\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\AuthValidation\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\AuthValidation\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\AuthValidation\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\AuthValidation\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\AuthValidation\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\AuthValidation\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\AuthValidation\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\AuthValidation\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\AuthValidation\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\AuthValidation\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\AuthValidation\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\AuthValidation\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\AuthValidation\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\AuthValidation\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\AuthValidation\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\AuthValidation\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\AuthValidation\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\AuthValidation\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\AuthValidation\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\AuthValidation\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\AuthValidation\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\AuthValidation\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\AuthValidation\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\AuthValidation\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\AuthValidation\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\AuthValidation\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\AuthValidation\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\AuthValidation\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\AuthValidation\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\AuthValidation\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\AuthValidation\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\AuthValidation\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\AuthValidation\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\AuthValidation\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\AuthValidation\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\AuthValidation\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\AuthValidation\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\AuthValidation\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\AuthValidation\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacValidation\appsettings.Development.json
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacValidation\appsettings.json
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacValidation\HospitalManagement.Api.staticwebassets.endpoints.json
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacValidation\HospitalManagement.Api.exe
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacValidation\HospitalManagement.Api.deps.json
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacValidation\HospitalManagement.Api.runtimeconfig.json
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacValidation\HospitalManagement.Api.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacValidation\HospitalManagement.Api.pdb
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacValidation\BCrypt.Net-Next.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacValidation\Humanizer.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacValidation\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacValidation\Microsoft.Bcl.AsyncInterfaces.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacValidation\Microsoft.CodeAnalysis.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacValidation\Microsoft.CodeAnalysis.CSharp.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacValidation\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacValidation\Microsoft.CodeAnalysis.Workspaces.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacValidation\Microsoft.EntityFrameworkCore.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacValidation\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacValidation\Microsoft.EntityFrameworkCore.Design.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacValidation\Microsoft.EntityFrameworkCore.Relational.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacValidation\Microsoft.Extensions.Caching.Memory.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacValidation\Microsoft.Extensions.DependencyInjection.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacValidation\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacValidation\Microsoft.Extensions.DependencyModel.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacValidation\Microsoft.Extensions.Logging.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacValidation\Microsoft.Extensions.Logging.Abstractions.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacValidation\Microsoft.Extensions.Options.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacValidation\Microsoft.IdentityModel.Abstractions.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacValidation\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacValidation\Microsoft.IdentityModel.Logging.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacValidation\Microsoft.IdentityModel.Protocols.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacValidation\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacValidation\Microsoft.IdentityModel.Tokens.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacValidation\Microsoft.OpenApi.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacValidation\Mono.TextTemplating.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacValidation\Npgsql.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacValidation\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacValidation\Swashbuckle.AspNetCore.Swagger.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacValidation\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacValidation\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacValidation\System.CodeDom.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacValidation\System.Composition.AttributedModel.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacValidation\System.Composition.Convention.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacValidation\System.Composition.Hosting.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacValidation\System.Composition.Runtime.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacValidation\System.Composition.TypedParts.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacValidation\System.IdentityModel.Tokens.Jwt.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacValidation\cs\Microsoft.CodeAnalysis.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacValidation\de\Microsoft.CodeAnalysis.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacValidation\es\Microsoft.CodeAnalysis.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacValidation\fr\Microsoft.CodeAnalysis.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacValidation\it\Microsoft.CodeAnalysis.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacValidation\ja\Microsoft.CodeAnalysis.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacValidation\ko\Microsoft.CodeAnalysis.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacValidation\pl\Microsoft.CodeAnalysis.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacValidation\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacValidation\ru\Microsoft.CodeAnalysis.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacValidation\tr\Microsoft.CodeAnalysis.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacValidation\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacValidation\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacValidation\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacValidation\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacValidation\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacValidation\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacValidation\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacValidation\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacValidation\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacValidation\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacValidation\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacValidation\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacValidation\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacValidation\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacValidation\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacValidation\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacValidation\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacValidation\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacValidation\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacValidation\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacValidation\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacValidation\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacValidation\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacValidation\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacValidation\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacValidation\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacValidation\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacValidation\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacValidation\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacValidation\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacValidation\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacValidation\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacValidation\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacValidation\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacValidation\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacValidation\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacValidation\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacValidation\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacValidation\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacValidation\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacValidation\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\PermissionValidation\appsettings.Development.json
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\PermissionValidation\appsettings.json
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\PermissionValidation\HospitalManagement.Api.staticwebassets.endpoints.json
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\PermissionValidation\HospitalManagement.Api.exe
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\PermissionValidation\HospitalManagement.Api.deps.json
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\PermissionValidation\HospitalManagement.Api.runtimeconfig.json
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\PermissionValidation\HospitalManagement.Api.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\PermissionValidation\HospitalManagement.Api.pdb
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\PermissionValidation\BCrypt.Net-Next.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\PermissionValidation\Humanizer.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\PermissionValidation\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\PermissionValidation\Microsoft.Bcl.AsyncInterfaces.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\PermissionValidation\Microsoft.CodeAnalysis.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\PermissionValidation\Microsoft.CodeAnalysis.CSharp.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\PermissionValidation\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\PermissionValidation\Microsoft.CodeAnalysis.Workspaces.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\PermissionValidation\Microsoft.EntityFrameworkCore.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\PermissionValidation\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\PermissionValidation\Microsoft.EntityFrameworkCore.Design.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\PermissionValidation\Microsoft.EntityFrameworkCore.Relational.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\PermissionValidation\Microsoft.Extensions.Caching.Memory.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\PermissionValidation\Microsoft.Extensions.DependencyInjection.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\PermissionValidation\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\PermissionValidation\Microsoft.Extensions.DependencyModel.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\PermissionValidation\Microsoft.Extensions.Logging.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\PermissionValidation\Microsoft.Extensions.Logging.Abstractions.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\PermissionValidation\Microsoft.Extensions.Options.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\PermissionValidation\Microsoft.IdentityModel.Abstractions.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\PermissionValidation\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\PermissionValidation\Microsoft.IdentityModel.Logging.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\PermissionValidation\Microsoft.IdentityModel.Protocols.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\PermissionValidation\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\PermissionValidation\Microsoft.IdentityModel.Tokens.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\PermissionValidation\Microsoft.OpenApi.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\PermissionValidation\Mono.TextTemplating.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\PermissionValidation\Npgsql.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\PermissionValidation\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\PermissionValidation\Swashbuckle.AspNetCore.Swagger.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\PermissionValidation\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\PermissionValidation\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\PermissionValidation\System.CodeDom.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\PermissionValidation\System.Composition.AttributedModel.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\PermissionValidation\System.Composition.Convention.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\PermissionValidation\System.Composition.Hosting.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\PermissionValidation\System.Composition.Runtime.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\PermissionValidation\System.Composition.TypedParts.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\PermissionValidation\System.IdentityModel.Tokens.Jwt.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\PermissionValidation\cs\Microsoft.CodeAnalysis.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\PermissionValidation\de\Microsoft.CodeAnalysis.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\PermissionValidation\es\Microsoft.CodeAnalysis.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\PermissionValidation\fr\Microsoft.CodeAnalysis.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\PermissionValidation\it\Microsoft.CodeAnalysis.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\PermissionValidation\ja\Microsoft.CodeAnalysis.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\PermissionValidation\ko\Microsoft.CodeAnalysis.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\PermissionValidation\pl\Microsoft.CodeAnalysis.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\PermissionValidation\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\PermissionValidation\ru\Microsoft.CodeAnalysis.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\PermissionValidation\tr\Microsoft.CodeAnalysis.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\PermissionValidation\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\PermissionValidation\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\PermissionValidation\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\PermissionValidation\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\PermissionValidation\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\PermissionValidation\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\PermissionValidation\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\PermissionValidation\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\PermissionValidation\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\PermissionValidation\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\PermissionValidation\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\PermissionValidation\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\PermissionValidation\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\PermissionValidation\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\PermissionValidation\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\PermissionValidation\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\PermissionValidation\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\PermissionValidation\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\PermissionValidation\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\PermissionValidation\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\PermissionValidation\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\PermissionValidation\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\PermissionValidation\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\PermissionValidation\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\PermissionValidation\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\PermissionValidation\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\PermissionValidation\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\PermissionValidation\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\PermissionValidation\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\PermissionValidation\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\PermissionValidation\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\PermissionValidation\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\PermissionValidation\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\PermissionValidation\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\PermissionValidation\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\PermissionValidation\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\PermissionValidation\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\PermissionValidation\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\PermissionValidation\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\PermissionValidation\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\PermissionValidation\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacApiValidation\appsettings.Development.json
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacApiValidation\appsettings.json
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacApiValidation\HospitalManagement.Api.staticwebassets.endpoints.json
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacApiValidation\HospitalManagement.Api.exe
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacApiValidation\HospitalManagement.Api.deps.json
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacApiValidation\HospitalManagement.Api.runtimeconfig.json
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacApiValidation\HospitalManagement.Api.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacApiValidation\HospitalManagement.Api.pdb
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacApiValidation\BCrypt.Net-Next.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacApiValidation\Humanizer.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacApiValidation\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacApiValidation\Microsoft.Bcl.AsyncInterfaces.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacApiValidation\Microsoft.CodeAnalysis.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacApiValidation\Microsoft.CodeAnalysis.CSharp.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacApiValidation\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacApiValidation\Microsoft.CodeAnalysis.Workspaces.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacApiValidation\Microsoft.EntityFrameworkCore.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacApiValidation\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacApiValidation\Microsoft.EntityFrameworkCore.Design.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacApiValidation\Microsoft.EntityFrameworkCore.Relational.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacApiValidation\Microsoft.Extensions.Caching.Memory.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacApiValidation\Microsoft.Extensions.DependencyInjection.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacApiValidation\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacApiValidation\Microsoft.Extensions.DependencyModel.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacApiValidation\Microsoft.Extensions.Logging.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacApiValidation\Microsoft.Extensions.Logging.Abstractions.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacApiValidation\Microsoft.Extensions.Options.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacApiValidation\Microsoft.IdentityModel.Abstractions.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacApiValidation\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacApiValidation\Microsoft.IdentityModel.Logging.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacApiValidation\Microsoft.IdentityModel.Protocols.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacApiValidation\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacApiValidation\Microsoft.IdentityModel.Tokens.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacApiValidation\Microsoft.OpenApi.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacApiValidation\Mono.TextTemplating.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacApiValidation\Npgsql.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacApiValidation\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacApiValidation\Swashbuckle.AspNetCore.Swagger.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacApiValidation\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacApiValidation\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacApiValidation\System.CodeDom.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacApiValidation\System.Composition.AttributedModel.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacApiValidation\System.Composition.Convention.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacApiValidation\System.Composition.Hosting.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacApiValidation\System.Composition.Runtime.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacApiValidation\System.Composition.TypedParts.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacApiValidation\System.IdentityModel.Tokens.Jwt.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacApiValidation\cs\Microsoft.CodeAnalysis.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacApiValidation\de\Microsoft.CodeAnalysis.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacApiValidation\es\Microsoft.CodeAnalysis.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacApiValidation\fr\Microsoft.CodeAnalysis.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacApiValidation\it\Microsoft.CodeAnalysis.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacApiValidation\ja\Microsoft.CodeAnalysis.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacApiValidation\ko\Microsoft.CodeAnalysis.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacApiValidation\pl\Microsoft.CodeAnalysis.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacApiValidation\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacApiValidation\ru\Microsoft.CodeAnalysis.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacApiValidation\tr\Microsoft.CodeAnalysis.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacApiValidation\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacApiValidation\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacApiValidation\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacApiValidation\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacApiValidation\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacApiValidation\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacApiValidation\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacApiValidation\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacApiValidation\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacApiValidation\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacApiValidation\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacApiValidation\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacApiValidation\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacApiValidation\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacApiValidation\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacApiValidation\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacApiValidation\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacApiValidation\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacApiValidation\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacApiValidation\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacApiValidation\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacApiValidation\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacApiValidation\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacApiValidation\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacApiValidation\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacApiValidation\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacApiValidation\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacApiValidation\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacApiValidation\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacApiValidation\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacApiValidation\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacApiValidation\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacApiValidation\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacApiValidation\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacApiValidation\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacApiValidation\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacApiValidation\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacApiValidation\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacApiValidation\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacApiValidation\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\New folder (32)\hospital-management-system-phase1\hospital-management-system\backend\HospitalManagement.Api\bin\RbacApiValidation\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\tmp\hms-test-build\appsettings.Development.json
+E:\tmp\hms-test-build\appsettings.json
+E:\tmp\hms-test-build\bin\AuthValidation\appsettings.Development.json
+E:\tmp\hms-test-build\bin\AuthValidation\appsettings.json
+E:\tmp\hms-test-build\bin\AuthValidation\HospitalManagement.Api.deps.json
+E:\tmp\hms-test-build\bin\AuthValidation\HospitalManagement.Api.runtimeconfig.json
+E:\tmp\hms-test-build\bin\AuthValidation\HospitalManagement.Api.staticwebassets.endpoints.json
+E:\tmp\hms-test-build\bin\Debug\net8.0\appsettings.Development.json
+E:\tmp\hms-test-build\bin\Debug\net8.0\appsettings.json
+E:\tmp\hms-test-build\bin\Debug\net8.0\HospitalManagement.Api.deps.json
+E:\tmp\hms-test-build\bin\Debug\net8.0\HospitalManagement.Api.runtimeconfig.json
+E:\tmp\hms-test-build\bin\Debug\net8.0\HospitalManagement.Api.staticwebassets.endpoints.json
+E:\tmp\hms-test-build\bin\PermissionValidation\appsettings.Development.json
+E:\tmp\hms-test-build\bin\PermissionValidation\appsettings.json
+E:\tmp\hms-test-build\bin\PermissionValidation\HospitalManagement.Api.deps.json
+E:\tmp\hms-test-build\bin\PermissionValidation\HospitalManagement.Api.runtimeconfig.json
+E:\tmp\hms-test-build\bin\PermissionValidation\HospitalManagement.Api.staticwebassets.endpoints.json
+E:\tmp\hms-test-build\bin\RbacApiValidation\appsettings.Development.json
+E:\tmp\hms-test-build\bin\RbacApiValidation\appsettings.json
+E:\tmp\hms-test-build\bin\RbacApiValidation\HospitalManagement.Api.deps.json
+E:\tmp\hms-test-build\bin\RbacApiValidation\HospitalManagement.Api.runtimeconfig.json
+E:\tmp\hms-test-build\bin\RbacApiValidation\HospitalManagement.Api.staticwebassets.endpoints.json
+E:\tmp\hms-test-build\bin\RbacValidation\appsettings.Development.json
+E:\tmp\hms-test-build\bin\RbacValidation\appsettings.json
+E:\tmp\hms-test-build\bin\RbacValidation\HospitalManagement.Api.deps.json
+E:\tmp\hms-test-build\bin\RbacValidation\HospitalManagement.Api.runtimeconfig.json
+E:\tmp\hms-test-build\bin\RbacValidation\HospitalManagement.Api.staticwebassets.endpoints.json
+E:\tmp\hms-test-build\HospitalManagement.Api.staticwebassets.endpoints.json
+E:\tmp\hms-test-build\HospitalManagement.Api.deps.json
+E:\tmp\hms-test-build\HospitalManagement.Api.runtimeconfig.json
+E:\tmp\hms-test-build\HospitalManagement.Api.dll
+E:\tmp\hms-test-build\HospitalManagement.Api.pdb
+E:\tmp\hms-build\Debug\net8.0\appsettings.Development.json
+E:\tmp\hms-build\Debug\net8.0\appsettings.json
+E:\tmp\hms-build\Debug\net8.0\bin\AuthValidation\appsettings.Development.json
+E:\tmp\hms-build\Debug\net8.0\bin\AuthValidation\appsettings.json
+E:\tmp\hms-build\Debug\net8.0\bin\AuthValidation\HospitalManagement.Api.deps.json
+E:\tmp\hms-build\Debug\net8.0\bin\AuthValidation\HospitalManagement.Api.runtimeconfig.json
+E:\tmp\hms-build\Debug\net8.0\bin\AuthValidation\HospitalManagement.Api.staticwebassets.endpoints.json
+E:\tmp\hms-build\Debug\net8.0\bin\Debug\net8.0\appsettings.Development.json
+E:\tmp\hms-build\Debug\net8.0\bin\Debug\net8.0\appsettings.json
+E:\tmp\hms-build\Debug\net8.0\bin\Debug\net8.0\HospitalManagement.Api.deps.json
+E:\tmp\hms-build\Debug\net8.0\bin\Debug\net8.0\HospitalManagement.Api.runtimeconfig.json
+E:\tmp\hms-build\Debug\net8.0\bin\Debug\net8.0\HospitalManagement.Api.staticwebassets.endpoints.json
+E:\tmp\hms-build\Debug\net8.0\bin\PermissionValidation\appsettings.Development.json
+E:\tmp\hms-build\Debug\net8.0\bin\PermissionValidation\appsettings.json
+E:\tmp\hms-build\Debug\net8.0\bin\PermissionValidation\HospitalManagement.Api.deps.json
+E:\tmp\hms-build\Debug\net8.0\bin\PermissionValidation\HospitalManagement.Api.runtimeconfig.json
+E:\tmp\hms-build\Debug\net8.0\bin\PermissionValidation\HospitalManagement.Api.staticwebassets.endpoints.json
+E:\tmp\hms-build\Debug\net8.0\bin\RbacApiValidation\appsettings.Development.json
+E:\tmp\hms-build\Debug\net8.0\bin\RbacApiValidation\appsettings.json
+E:\tmp\hms-build\Debug\net8.0\bin\RbacApiValidation\HospitalManagement.Api.deps.json
+E:\tmp\hms-build\Debug\net8.0\bin\RbacApiValidation\HospitalManagement.Api.runtimeconfig.json
+E:\tmp\hms-build\Debug\net8.0\bin\RbacApiValidation\HospitalManagement.Api.staticwebassets.endpoints.json
+E:\tmp\hms-build\Debug\net8.0\bin\RbacValidation\appsettings.Development.json
+E:\tmp\hms-build\Debug\net8.0\bin\RbacValidation\appsettings.json
+E:\tmp\hms-build\Debug\net8.0\bin\RbacValidation\HospitalManagement.Api.deps.json
+E:\tmp\hms-build\Debug\net8.0\bin\RbacValidation\HospitalManagement.Api.runtimeconfig.json
+E:\tmp\hms-build\Debug\net8.0\bin\RbacValidation\HospitalManagement.Api.staticwebassets.endpoints.json
+E:\tmp\hms-build\Debug\net8.0\HospitalManagement.Api.staticwebassets.endpoints.json
+E:\tmp\hms-build\Debug\net8.0\HospitalManagement.Api.deps.json
+E:\tmp\hms-build\Debug\net8.0\HospitalManagement.Api.runtimeconfig.json
+E:\tmp\hms-build\Debug\net8.0\HospitalManagement.Api.dll
+E:\tmp\hms-build\Debug\net8.0\HospitalManagement.Api.pdb
+C:\Users\mypc\Downloads\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\mypc\Downloads\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\appsettings.json
+C:\Users\mypc\Downloads\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\HospitalManagement.Api.staticwebassets.endpoints.json
+C:\Users\mypc\Downloads\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\HospitalManagement.Api.exe
+C:\Users\mypc\Downloads\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\HospitalManagement.Api.deps.json
+C:\Users\mypc\Downloads\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\HospitalManagement.Api.runtimeconfig.json
+C:\Users\mypc\Downloads\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\HospitalManagement.Api.dll
+C:\Users\mypc\Downloads\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\HospitalManagement.Api.pdb
+C:\Users\mypc\Downloads\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\mypc\Downloads\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\Humanizer.dll
+C:\Users\mypc\Downloads\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\mypc\Downloads\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\mypc\Downloads\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\mypc\Downloads\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mypc\Downloads\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\mypc\Downloads\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\mypc\Downloads\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\mypc\Downloads\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mypc\Downloads\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\mypc\Downloads\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mypc\Downloads\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\mypc\Downloads\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mypc\Downloads\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\mypc\Downloads\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\mypc\Downloads\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\mypc\Downloads\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\mypc\Downloads\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\mypc\Downloads\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\mypc\Downloads\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mypc\Downloads\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\mypc\Downloads\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mypc\Downloads\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mypc\Downloads\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mypc\Downloads\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\mypc\Downloads\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\mypc\Downloads\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\Npgsql.dll
+C:\Users\mypc\Downloads\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\mypc\Downloads\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mypc\Downloads\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mypc\Downloads\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mypc\Downloads\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\mypc\Downloads\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\mypc\Downloads\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\mypc\Downloads\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\mypc\Downloads\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\mypc\Downloads\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\mypc\Downloads\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mypc\Downloads\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mypc\Downloads\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mypc\Downloads\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mypc\Downloads\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mypc\Downloads\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mypc\Downloads\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mypc\Downloads\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mypc\Downloads\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mypc\Downloads\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mypc\Downloads\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mypc\Downloads\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mypc\Downloads\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mypc\Downloads\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\mypc\Downloads\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mypc\Downloads\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mypc\Downloads\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mypc\Downloads\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mypc\Downloads\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mypc\Downloads\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mypc\Downloads\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mypc\Downloads\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mypc\Downloads\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mypc\Downloads\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mypc\Downloads\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mypc\Downloads\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mypc\Downloads\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\mypc\Downloads\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mypc\Downloads\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mypc\Downloads\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mypc\Downloads\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mypc\Downloads\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mypc\Downloads\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mypc\Downloads\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mypc\Downloads\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mypc\Downloads\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mypc\Downloads\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mypc\Downloads\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mypc\Downloads\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mypc\Downloads\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\mypc\Downloads\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mypc\Downloads\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mypc\Downloads\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mypc\Downloads\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mypc\Downloads\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mypc\Downloads\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mypc\Downloads\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mypc\Downloads\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mypc\Downloads\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mypc\Downloads\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mypc\Downloads\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mypc\Downloads\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mypc\Downloads\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\mypc\Downloads\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\obj\Debug\net8.0\HospitalManagement.Api.csproj.AssemblyReference.cache
+C:\Users\mypc\Downloads\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\mypc\Downloads\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\obj\Debug\net8.0\HospitalManagement.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mypc\Downloads\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\obj\Debug\net8.0\HospitalManagement.Api.AssemblyInfoInputs.cache
+C:\Users\mypc\Downloads\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\obj\Debug\net8.0\HospitalManagement.Api.AssemblyInfo.cs
+C:\Users\mypc\Downloads\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\obj\Debug\net8.0\HospitalManagement.Api.csproj.CoreCompileInputs.cache
+C:\Users\mypc\Downloads\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\obj\Debug\net8.0\HospitalManagement.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mypc\Downloads\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\obj\Debug\net8.0\HospitalManagement.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mypc\Downloads\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\mypc\Downloads\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\mypc\Downloads\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\mypc\Downloads\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\obj\Debug\net8.0\scopedcss\bundle\HospitalManagement.Api.styles.css
+C:\Users\mypc\Downloads\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\mypc\Downloads\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\mypc\Downloads\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\mypc\Downloads\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\mypc\Downloads\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\obj\Debug\net8.0\swae.build.ex.cache
+C:\Users\mypc\Downloads\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\obj\Debug\net8.0\Hospital.C4BE303C.Up2Date
+C:\Users\mypc\Downloads\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\obj\Debug\net8.0\HospitalManagement.Api.dll
+C:\Users\mypc\Downloads\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\obj\Debug\net8.0\refint\HospitalManagement.Api.dll
+C:\Users\mypc\Downloads\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\obj\Debug\net8.0\HospitalManagement.Api.pdb
+C:\Users\mypc\Downloads\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\obj\Debug\net8.0\HospitalManagement.Api.genruntimeconfig.cache
+C:\Users\mypc\Downloads\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\obj\Debug\net8.0\ref\HospitalManagement.Api.dll
+E:\hospital-management-system__4_ (2)\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\obj\Debug\net8.0\HospitalManagement.Api.csproj.AssemblyReference.cache
+E:\hospital-management-system__4_ (2)\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\obj\Debug\net8.0\rpswa.dswa.cache.json
+E:\hospital-management-system__4_ (2)\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\obj\Debug\net8.0\HospitalManagement.Api.GeneratedMSBuildEditorConfig.editorconfig
+E:\hospital-management-system__4_ (2)\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\obj\Debug\net8.0\HospitalManagement.Api.AssemblyInfoInputs.cache
+E:\hospital-management-system__4_ (2)\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\obj\Debug\net8.0\HospitalManagement.Api.AssemblyInfo.cs
+E:\hospital-management-system__4_ (2)\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\obj\Debug\net8.0\HospitalManagement.Api.csproj.CoreCompileInputs.cache
+E:\hospital-management-system__4_ (2)\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\obj\Debug\net8.0\HospitalManagement.Api.MvcApplicationPartsAssemblyInfo.cs
+E:\hospital-management-system__4_ (2)\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\obj\Debug\net8.0\HospitalManagement.Api.MvcApplicationPartsAssemblyInfo.cache
+E:\hospital-management-system__4_ (2)\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\obj\Debug\net8.0\HospitalManagement.Api.dll
+E:\hospital-management-system__4_ (2)\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\obj\Debug\net8.0\refint\HospitalManagement.Api.dll
+E:\hospital-management-system__4_ (2)\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\obj\Debug\net8.0\HospitalManagement.Api.pdb
+E:\hospital-management-system__4_ (2)\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\appsettings.Development.json
+E:\hospital-management-system__4_ (2)\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\appsettings.json
+E:\hospital-management-system__4_ (2)\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\HospitalManagement.Api.staticwebassets.endpoints.json
+E:\hospital-management-system__4_ (2)\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\HospitalManagement.Api.exe
+E:\hospital-management-system__4_ (2)\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\HospitalManagement.Api.deps.json
+E:\hospital-management-system__4_ (2)\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\HospitalManagement.Api.runtimeconfig.json
+E:\hospital-management-system__4_ (2)\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\HospitalManagement.Api.dll
+E:\hospital-management-system__4_ (2)\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\HospitalManagement.Api.pdb
+E:\hospital-management-system__4_ (2)\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\BCrypt.Net-Next.dll
+E:\hospital-management-system__4_ (2)\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\Humanizer.dll
+E:\hospital-management-system__4_ (2)\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\hospital-management-system__4_ (2)\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\hospital-management-system__4_ (2)\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\hospital-management-system__4_ (2)\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\hospital-management-system__4_ (2)\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\hospital-management-system__4_ (2)\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\hospital-management-system__4_ (2)\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\hospital-management-system__4_ (2)\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\hospital-management-system__4_ (2)\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\hospital-management-system__4_ (2)\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\hospital-management-system__4_ (2)\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\hospital-management-system__4_ (2)\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\hospital-management-system__4_ (2)\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\hospital-management-system__4_ (2)\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\hospital-management-system__4_ (2)\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\hospital-management-system__4_ (2)\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\hospital-management-system__4_ (2)\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\hospital-management-system__4_ (2)\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\hospital-management-system__4_ (2)\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\hospital-management-system__4_ (2)\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\hospital-management-system__4_ (2)\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\hospital-management-system__4_ (2)\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\hospital-management-system__4_ (2)\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\hospital-management-system__4_ (2)\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\hospital-management-system__4_ (2)\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\hospital-management-system__4_ (2)\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\Npgsql.dll
+E:\hospital-management-system__4_ (2)\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+E:\hospital-management-system__4_ (2)\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\hospital-management-system__4_ (2)\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\hospital-management-system__4_ (2)\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\hospital-management-system__4_ (2)\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\System.CodeDom.dll
+E:\hospital-management-system__4_ (2)\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\hospital-management-system__4_ (2)\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\hospital-management-system__4_ (2)\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\hospital-management-system__4_ (2)\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\hospital-management-system__4_ (2)\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\hospital-management-system__4_ (2)\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\hospital-management-system__4_ (2)\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\hospital-management-system__4_ (2)\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\hospital-management-system__4_ (2)\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\hospital-management-system__4_ (2)\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\hospital-management-system__4_ (2)\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\hospital-management-system__4_ (2)\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\hospital-management-system__4_ (2)\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\hospital-management-system__4_ (2)\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\hospital-management-system__4_ (2)\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\hospital-management-system__4_ (2)\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\hospital-management-system__4_ (2)\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\hospital-management-system__4_ (2)\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\hospital-management-system__4_ (2)\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\hospital-management-system__4_ (2)\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\hospital-management-system__4_ (2)\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\hospital-management-system__4_ (2)\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\hospital-management-system__4_ (2)\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\hospital-management-system__4_ (2)\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\hospital-management-system__4_ (2)\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\hospital-management-system__4_ (2)\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\hospital-management-system__4_ (2)\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\hospital-management-system__4_ (2)\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\hospital-management-system__4_ (2)\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\hospital-management-system__4_ (2)\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\hospital-management-system__4_ (2)\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\hospital-management-system__4_ (2)\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\hospital-management-system__4_ (2)\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\hospital-management-system__4_ (2)\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\hospital-management-system__4_ (2)\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\hospital-management-system__4_ (2)\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\hospital-management-system__4_ (2)\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\hospital-management-system__4_ (2)\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\hospital-management-system__4_ (2)\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\hospital-management-system__4_ (2)\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\hospital-management-system__4_ (2)\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\hospital-management-system__4_ (2)\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\hospital-management-system__4_ (2)\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\hospital-management-system__4_ (2)\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\hospital-management-system__4_ (2)\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\hospital-management-system__4_ (2)\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\hospital-management-system__4_ (2)\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\hospital-management-system__4_ (2)\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\hospital-management-system__4_ (2)\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\hospital-management-system__4_ (2)\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\hospital-management-system__4_ (2)\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\hospital-management-system__4_ (2)\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\hospital-management-system__4_ (2)\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\hospital-management-system__4_ (2)\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\hospital-management-system__4_ (2)\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\hospital-management-system__4_ (2)\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\hospital-management-system__4_ (2)\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\hospital-management-system__4_ (2)\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\hospital-management-system__4_ (2)\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\obj\Debug\net8.0\rjimswa.dswa.cache.json
+E:\hospital-management-system__4_ (2)\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+E:\hospital-management-system__4_ (2)\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+E:\hospital-management-system__4_ (2)\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\obj\Debug\net8.0\scopedcss\bundle\HospitalManagement.Api.styles.css
+E:\hospital-management-system__4_ (2)\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\obj\Debug\net8.0\staticwebassets.build.json
+E:\hospital-management-system__4_ (2)\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\obj\Debug\net8.0\staticwebassets.build.json.cache
+E:\hospital-management-system__4_ (2)\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\obj\Debug\net8.0\staticwebassets.development.json
+E:\hospital-management-system__4_ (2)\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\hospital-management-system__4_ (2)\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\obj\Debug\net8.0\swae.build.ex.cache
+E:\hospital-management-system__4_ (2)\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\obj\Debug\net8.0\Hospital.C4BE303C.Up2Date
+E:\hospital-management-system__4_ (2)\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\obj\Debug\net8.0\HospitalManagement.Api.genruntimeconfig.cache
+E:\hospital-management-system__4_ (2)\hospital-management-system__4_\hospital-management-system\backend\HospitalManagement.Api\obj\Debug\net8.0\ref\HospitalManagement.Api.dll
