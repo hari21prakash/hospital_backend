@@ -156,6 +156,8 @@ var app = builder.Build();
 await using (var scope = app.Services.CreateAsyncScope())
 {
     var dbContext = scope.ServiceProvider.GetRequiredService<AppDbContext>();
+      await dbContext.Database.MigrateAsync();
+
     // System initialisation: always runs and is idempotent.
     await RbacSeeder.SeedAsync(dbContext);
 
