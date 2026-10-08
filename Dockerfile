@@ -1,23 +1,29 @@
 # =========================
-# Build stage
+# Build
 # =========================
 FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 
 WORKDIR /src
 
-COPY ["HospitalManagement.Api.csproj", "./"]
+# Copy project file first for Docker layer caching
+COPY HospitalManagement.Api.csproj ./
 
-RUN dotnet restore "HospitalManagement.Api.csproj"
+# Clean NuGet-related environment/config that may come from the repo
+ENV NUGET_FALLBACK_PACKAGES=""
 
+RUN dotnet restore HospitalManagement.Api.csproj --force
+
+# Copy source
 COPY . .
 
-RUN dotnet publish "HospitalManagement.Api.csproj" \
+# Publish using the packages restored inside the container
+RUN dotnet publish HospitalManagement.Api.csproj \
     -c Release \
     -o /app/publish \
     --no-restore
 
 # =========================
-# Runtime stage
+# Runtime
 # =========================
 FROM mcr.microsoft.com/dotnet/aspnet:8.0 AS final
 
